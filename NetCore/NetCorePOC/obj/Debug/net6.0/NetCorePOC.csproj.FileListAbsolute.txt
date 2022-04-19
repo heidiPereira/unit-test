@@ -1,0 +1,12 @@
+/Users/heidi/Source/Test code/Test code/NetCore/NetCorePOC/bin/Debug/net6.0/NetCorePOC.deps.json
+/Users/heidi/Source/Test code/Test code/NetCore/NetCorePOC/bin/Debug/net6.0/NetCorePOC.dll
+/Users/heidi/Source/Test code/Test code/NetCore/NetCorePOC/bin/Debug/net6.0/NetCorePOC.pdb
+/Users/heidi/Source/Test code/Test code/NetCore/NetCorePOC/obj/Debug/net6.0/NetCorePOC.csproj.AssemblyReference.cache
+/Users/heidi/Source/Test code/Test code/NetCore/NetCorePOC/obj/Debug/net6.0/NetCorePOC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/heidi/Source/Test code/Test code/NetCore/NetCorePOC/obj/Debug/net6.0/NetCorePOC.AssemblyInfoInputs.cache
+/Users/heidi/Source/Test code/Test code/NetCore/NetCorePOC/obj/Debug/net6.0/NetCorePOC.AssemblyInfo.cs
+/Users/heidi/Source/Test code/Test code/NetCore/NetCorePOC/obj/Debug/net6.0/NetCorePOC.csproj.CoreCompileInputs.cache
+/Users/heidi/Source/Test code/Test code/NetCore/NetCorePOC/obj/Debug/net6.0/NetCorePOC.dll
+/Users/heidi/Source/Test code/Test code/NetCore/NetCorePOC/obj/Debug/net6.0/refint/NetCorePOC.dll
+/Users/heidi/Source/Test code/Test code/NetCore/NetCorePOC/obj/Debug/net6.0/NetCorePOC.pdb
+/Users/heidi/Source/Test code/Test code/NetCore/NetCorePOC/obj/Debug/net6.0/ref/NetCorePOC.dll
